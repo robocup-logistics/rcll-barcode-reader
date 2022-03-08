@@ -6,7 +6,7 @@ To track the workpiece flow, we introduce (2019) a product tracking system with 
 ## Barcode Scanner
 The Barcode Scanner is a simple Solution with a cheap China-Scanner over USB (Keyboard-Driver)
 [SH-400](https://alexnld.com/product/scanhome-embedded-scanning-module-2d-code-barcode-scanner-head-fixed-usb-ttl-rs232-sh-400/)  
-![SH-400](https://alexnld.com/wp-content/uploads/2019/12/57aa8d68-5f4b-4cce-8d17-5915527fbc0c-500x500.jpg =250x)  
+![SH-400](https://alexnld.com/wp-content/uploads/2019/12/57aa8d68-5f4b-4cce-8d17-5915527fbc0c-500x500.jpg)  
 
 ## Raspberrry Pi
 
